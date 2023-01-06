@@ -1,7 +1,7 @@
 # freqtrade-strats
 Strategies for Freqtrade
 
-Current Live - MultiMA_TSL
+Current Live - MultiMA_TSL  
 Current Test - Cinderwal
 
 Live Stats - 5th Jan
